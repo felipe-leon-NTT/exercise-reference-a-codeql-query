@@ -2,6 +2,8 @@
 
 This exercise checks your knowledge on referencing a query in a CodeQL workflow. It is automatically graded via a workflow once you have completed the instructions.
 
+TESTING
+
 ## About this exercise
 
 A grading script exists under `.github/workflows/grading.yml`. You do not need to use this workflow for any purpose and **altering its contents will affect the repository's ability to assess your exercise and give feedback.**
