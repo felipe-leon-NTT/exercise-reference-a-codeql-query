@@ -2,7 +2,8 @@ name: "Code Scanning - Action"
 
 on:
   pull_request:
-    branches: [main]
+    branches:
+      - '**'
 
 jobs:
   CodeQL-Build:
